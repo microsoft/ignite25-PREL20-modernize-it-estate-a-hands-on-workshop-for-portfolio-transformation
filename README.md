@@ -1,3 +1,5 @@
+<!--
+
 # Welcome Ignite 2025 Creators!
 
 Thanks for creating content for Ignite!  Please follow this guidance so all ignite repos have the same look and feel.
@@ -63,49 +65,51 @@ Send them to [Mike Kinsman](mailto:mikki@microsoft.com) and [Laurent Bugnion](lb
 - Remove the folders that you don't need or didn't use, *please don't leave them empty with placeholder readmes*
 - Delete this line and everything above it!
 
+-->
+
 <p align="center">
 <img src="img/Banner-ignite-25.png" alt="decorative banner" width="1200"/>
 </p>
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥BRKXXX: From Strategy to Execution A workshop for Portfolio Transformation
+## 🔥PREL20: Modernize IT Estate: From Strategy to Execution - A Hands-On Workshop for Portfolio Transformation
 
 [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)
 [![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/AIFoundryForum-Ignite25)
 
 ### Session Description
 
-*Add Session Description*
+*PREL20: Modernize IT Estate: From Strategy to Execution - A Hands-On Workshop for Portfolio Transformation* is a hands-on session for IT leaders and practitioners focused on modernizing the IT estate from strategy to execution. Participants will learn the six key migration and modernization strategies—Retire, Rehost, Replatform, Refactor, Rearchitect, and Rebuild—through practical exercises and real-world case studies. 
+
+The workshop demonstrates how to leverage Azure and GitHub Copilot for rapid, secure, and cost-effective modernization, streamlining migration at scale, optimizing costs, and aligning IT transformation with business goals. 
+
+Attendees will gain actionable insights, proven methodologies, and access to AI-powered tools to accelerate cloud adoption, improve agility, and drive measurable business outcomes.
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
--  
--
--
+-  Understand and apply the six key migration and modernization strategies (Retire, Rehost, Replatform, Refactor, Rearchitect, Rebuild).
+-  Gain hands-on experience with cloud migration planning and execution using Azure and GitHub Copilot.
+-  Learn to optimize costs, improve security, and accelerate modernization with AI-powered tools.
+-  Build a compelling business case for IT modernization, including ROI and operational benefits.
+-  Explore real-world success stories to inspire innovation and future-ready IT strategies.
 
 ### 💻 Technologies Used
 
-1.
-1.
-1.
-
-### 🌟 Microsoft Learn MCP Server
-
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Docs_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft.docs.mcp&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
-
-The Microsoft Learn MCP Server is a remote MCP Server that enables clients like GitHub Copilot and other AI agents to bring trusted and up-to-date information directly from Microsoft's official documentation. Get started by using the one-click button above for VSCode or access the [mcp.json](.vscode/mcp.json) file included in this repo.
-
-For more information, setup instructions for other dev clients, and to post comments and questions, visit our Learn MCP Server GitHub repo at [https://github.com/MicrosoftDocs/MCP](https://github.com/MicrosoftDocs/MCP). Find other MCP Servers to connect your agent to at [https://mcp.azure.com](https://mcp.azure.com).
-
-*Note: When you use the Learn MCP Server, you agree with [Microsoft Learn](https://learn.microsoft.com/en-us/legal/termsofuse) and [Microsoft API Terms](https://learn.microsoft.com/en-us/legal/microsoft-apis/terms-of-use) of Use.*
+1. Microsoft Azure 
+2. Azure Migrate
+3. GitHub Copilot
+4. Visual Studio / Visual Studio Code
 
 ### 📚 Resources and Next Steps
 
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
+| Related Sessions | [BRK103 Modernize your apps in days with AI agents in GitHub Copilot](https://ignite.microsoft.com/en-US/sessions/BRK103) | Still wrangling legacy code and applications? Analyze, upgrade, and migrate apps to Azure services with autonomous AI agents in GitHub Copilot— drastically simply your modernization effort, unlocking the full power of the cloud with confidence and staying in full control during each step. |
+| Documentation | [aka.ms/ghcp-appmod](https://aka.ms/ghcp-appmod) | Provides an overview, reference, and quickstarts on using GitHub Copilot app modernization. |
+| Try it out! | [aka.ms/ghcp-appmod/java](https://aka.ms/ghcp-appmod/java) <br /> [aka.ms/ghcp-appmod/dotNET](https://aka.ms/ghcp-appmod/dotNET) | Try GitHub Copilot app modernization for Java and .NET |
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)| Connect with the Azure AI Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
@@ -119,19 +123,18 @@ For more information, setup instructions for other dev clients, and to post comm
 
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
-"/><br />
-        <sub><b> INSERT NAME HERE
+    <td align="center"><a href="https://github.com/crgarcia12">
+        <img src="https://avatars.githubusercontent.com/u/27244028?v=4" width="100px;" alt="Carlos Raul Garcia"><br />
+        <sub><b> Carlos Raul Garcia
 </b></sub></a><br />
             <a href="https://github.com/mikekinsman" title="talk">📢</a> 
     </td>
     <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
+        <img src="https://avatars.githubusercontent.com/u/12975644?v=4" width="100px;" alt="Mitul Shah
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Mitul Shah
 </b></sub></a><br />
-            <a href="https://github.com/mikekinsman" title="talk">📢</a> 
+            <a href="https://github.com/mitulashah/" title="talk">📢</a> 
     </td>
 </tr></table>
 
