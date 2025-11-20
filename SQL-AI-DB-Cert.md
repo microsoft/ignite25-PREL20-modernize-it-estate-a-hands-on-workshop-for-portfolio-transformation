@@ -1,0 +1,1 @@
+[<img width="1280" height="720" alt="SQL AI Database Developer Associate Certification" src="https://github.com/user-attachments/assets/a87fadd0-5df1-4394-acab-d08ae58c27a2" />](https://aka.ms/ignite25-plans-AzureSQLAIDevelopment)
